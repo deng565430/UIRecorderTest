@@ -5,6 +5,17 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+reports
+.DS_Store
+.idea
+node_modules
+npm-debug.log
+uirecorder.log
+reports
+screenshots/**/*.png
+screenshots/**/*.html
+screenshots/**/*.json
+
 # Runtime data
 pids
 *.pid
